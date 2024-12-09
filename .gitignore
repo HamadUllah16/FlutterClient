@@ -1,0 +1,47 @@
+# Flutter/Dart generated files
+**/build/
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Pods/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.dart_tool/
+
+# IntelliJ and VSCode files
+.idea/
+.vscode/
+*.iml
+
+# Logs and temporary files
+*.log
+pubspec.lock
+*.swp
+
+# Mac-specific files
+.DS_Store
+
+# Android
+**/android/.gradle/
+**/android/app/build/
+**/local.properties
+**/android/key.properties
+
+# Flutter-specific caches
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+
+# Flutter Generated Files
+generated_plugin_registrant.dart
+
+# Other IDE and editor files
+*.orig
+*.bak
+*.tmp
+
+# Sensitive credentials
+**/keystore.properties
